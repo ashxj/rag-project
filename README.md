@@ -1,4 +1,6 @@
 # RAG Meklesanas Simulators
+<img width="2880" height="1800" alt="2026-02-19-231405_hyprshot" src="https://github.com/user-attachments/assets/78cf8ef1-f4c9-4601-b0ec-cf285cd443ae" />
+
 
 Minimals macibu projekts ar Python backend un frontend, kas imite RAG meklešanu pa teksta datiem.
 
