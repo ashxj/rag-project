@@ -1,0 +1,3 @@
+Algoritms ir skaidra un seciga darbibu virkne, kas risina konkreto uzdevumu.
+Algoritmu efektivitati verte pec laika un atminas paterina, izmantojot O-notaciju.
+Salidzinajums starp linearu, logaritmisku un kvadratisku sarezgitibu palidz izveleties labaku pieeju.

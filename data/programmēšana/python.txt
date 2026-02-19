@@ -1,0 +1,3 @@
+Python atbalsta vairakas programmesanas paradigmas: proceduralo, funkcionalo un objektorienteto.
+To plaši izmanto timekla izstrade, datu analize, masinmacibas un automatizacijas uzdevumos.
+Virtualas vides palidz atdalit projektu atkaribas un uzturet stabilu darba vidi.

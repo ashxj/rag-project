@@ -1,0 +1,3 @@
+Termodinamika peti siltuma procesus un energijas parvertibas.
+Pirmais termodinamikas likums saista ieksejas energijas izmainu ar pievadito siltumu un veikto darbu.
+Idealas gazes uzdevumos izmanto stavokla vienadojumu un izoprocesu grafikus.

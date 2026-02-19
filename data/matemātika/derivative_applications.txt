@@ -1,0 +1,3 @@
+Atvasinajums parada mirkligo lieluma izmainas atrumu un tiek izmantots fizika, ekonomika un tehnologijas.
+Ar atvasinajuma palidzibu nosaka pieaugsanas un samazinasanas intervalus, ka ari maksimuma un minimuma punktus.
+Pieskares vienadojumu grafika punkta iegust, izmantojot atvasinajuma vertibu saja punkta.

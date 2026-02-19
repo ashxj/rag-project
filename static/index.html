@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="lv">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RAG Search</title>
+    <link rel="stylesheet" href="/static/style.css" />
+  </head>
+  <body>
+    <main class="app">
+      <h1>RAG</h1>
+      <form id="search-form" class="search-panel">
+        <input id="query" type="text" placeholder="Ievadi meklēšanas pieprasījumu" required />
+        <select id="category"></select>
+        <button type="submit">Meklēt</button>
+      </form>
+
+      <section>
+        <h2>Rezultāti</h2>
+        <div id="status" class="status"></div>
+        <div id="results" class="results"></div>
+      </section>
+    </in>
+
+    <script src="/static/app.js"></script>
+  </body>
+</html>

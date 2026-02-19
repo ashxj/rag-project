@@ -1,0 +1,3 @@
+Testesana parbauda programmas korektumu ar dazadiem ievades datiem un scenarijiem.
+Atkļudosana palidz atrast kludu cēlonus, izmantojot logus un soli pa solim izpildi.
+Git versiju kontrole saglaba izmainu vesturi un atvieglo komandas darbu.

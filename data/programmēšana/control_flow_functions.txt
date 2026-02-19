@@ -1,0 +1,3 @@
+Nosacijumi if un cikli for, while nosaka programmas izpildes logiku.
+Funkcijas lauj sadalit kodu neatkarigos blokos, kurus var izmantot atkārtoti.
+Svarigi saprast mainigo redzamibu un argumentu nodosanu funkcijam.

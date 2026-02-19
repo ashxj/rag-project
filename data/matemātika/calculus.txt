@@ -1,0 +1,3 @@
+Matematiskas analizes pamati ietver robezas, atvasinajumus un integralus.
+Atvasinajums raksturo funkcijas izmainu atrumu, bet integralis palidz aprekinat uzkratas vertibas.
+Teilora rindu izmanto, lai aptuveni aprakstitu sarezgitakas funkcijas ap dotu punktu.

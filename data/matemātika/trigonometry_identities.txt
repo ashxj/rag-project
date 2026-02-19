@@ -1,0 +1,3 @@
+Trigonometriskas identitates ietver saskaites, starpibas, dubultlenka un pakapes pazeminasanas formulas.
+Trigonometrisku vienadojumu risinasanai noder parveidosana uz vienu funkciju un vienibas rinkna izmantojums.
+Jievero funkciju periodiskums un saknu atlase noteikta intervala.

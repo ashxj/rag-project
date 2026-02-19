@@ -1,0 +1,3 @@
+Tīmekļa lietotne parasti sastav no frontend un backend daļam.
+API nodrošina datu apmainu starp klientu un serveri, visbiežak JSON formata.
+HTTP metodes GET un POST izmanto datu iegūšanai un nosūtīšanai.

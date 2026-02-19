@@ -1,0 +1,3 @@
+Darbs ar failiem ietver lasisanu, rakstisanu un teksta datu apstradi.
+Konteksta parvaldnieks with nodrosina, ka fails tiek korekti aizverts pec darba beigam.
+Try-except konstrukcija palidz drosi apstradat ievades, failu un tipu kludas.

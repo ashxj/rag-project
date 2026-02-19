@@ -1,0 +1,3 @@
+Varbutibu teorija peti nejaukus notikumus un to iestasanas iespejas.
+Butiskas temas ir klasiska varbutiba, nosacijuma varbutiba un notikumu neatkariba.
+Statistika izmanto videjo vertibu, medianu, dispersiju un standartnovirzi datu analizei.

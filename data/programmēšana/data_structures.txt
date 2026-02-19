@@ -1,0 +1,3 @@
+Pamatstrukturas ir masivi, saraksti, steki, rindas, vardnicas un kopas.
+Pareiza datu strukturas izvele ietekme meklešanas, pievienosanas un dzesanas atrumu.
+Python vide 11. klase biezi izmanto list, dict, set un tuple.

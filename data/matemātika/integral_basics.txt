@@ -1,0 +1,3 @@
+Nenoteiktais integralis ir saistits ar pirmfunkciju, bet noteiktais integralis tiek interpreteets ka laukums zem grafika.
+Skolas kursa izmanto pamatnoteikumus un Njutona-Leibnica formulu.
+Integrali pielieto, lai noteiktu celu pec zinama atruma un citas uzkratas fiziskas lielumas.

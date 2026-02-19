@@ -1,0 +1,3 @@
+Vektori telpa raksturo virzienu un garumu. Pamatdarbibas ir saskaitisana, atnemsana un reizinajums ar skaitli.
+Skalarais reizinajums palidz aprekinat lenki starp vektoriem un projekcijas.
+Koordinatu metodes tiek lietotas stereometrija un analitiskaja geometrija.

@@ -1,0 +1,3 @@
+Pakapju funkcijai ir forma a^x, kur a > 0 un a nav vienads ar 1. Logaritmiska funkcija ir pakapju funkcijas apgriezta funkcija.
+Vienadojumu risinasana biezi balstas uz pamatnes parveidosanu un logaritmu ipasibu pielietosanu.
+Svarigas formulas ir log_a(xy), log_a(x/y) un log_a(x^k).

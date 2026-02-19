@@ -1,0 +1,3 @@
+Objektorienteta programmesana balstas uz klasem un objektiem.
+Galvenie principi ir iekapsulesana, mantojums un polimorfisms.
+Pat vienkarsos macibu projektos OOP padara kodu strukturētaku un vieglak paplasinamu.

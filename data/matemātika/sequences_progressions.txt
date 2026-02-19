@@ -1,0 +1,3 @@
+Skaitlu virknes var dot rekursivi vai ar visparejo locekla formulu.
+Aritmetiskai progresijai ir nemainiga starpiba, bet geometriskai progresijai - nemainigs koeficients.
+Pirmo n loceklu summu aprekinam izmanto standarta formulas un praktiskus uzdevumus.

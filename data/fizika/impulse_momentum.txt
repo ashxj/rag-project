@@ -1,0 +1,3 @@
+Kermena impulss ir masas un atruma reizinajums. Sadursmju uzdevumos nozimeigs ir impulsa saglabasanas likums.
+Speka impulss raksturo impulsa izmainu laika un ir vienads ar speka un laika reizinajumu.
+Izskir elastigas un neelastigas sadursmes.

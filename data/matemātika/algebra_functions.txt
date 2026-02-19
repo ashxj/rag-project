@@ -1,0 +1,3 @@
+Funkcija nosaka atbilstibu starp argumentu un vertibu. 11. klase svarigi ir noteikt definicijas apgabalu, vertibu kopu un funkcijas galvenas ipasibas.
+Jamak analizeet monotoniju, ekstremumus un funkcijas uzvedibu intervala robezas.
+Grafiska analize palidz noteikt vienadojuma saknu skaitu un zimes intervalus.
